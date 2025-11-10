@@ -84,6 +84,7 @@ main section.page1 .page1-bottom .page1-text button {
   font-weight: normal;
   display: flex;
   gap: 1rem;
+  cursor: pointer;
   align-items: center;
 }
 main section.page1 .page1-bottom .page1-text button i {
@@ -328,6 +329,7 @@ main section.page6 .bottom .text h1 {
   font-size: 2.2rem;
   text-transform: uppercase;
   font-weight: 300;
+  cursor: pointer;
 }
 main section.page6 .bottom button {
   width: -moz-fit-content;
